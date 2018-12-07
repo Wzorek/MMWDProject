@@ -1,0 +1,2 @@
+D:\Studia\Cszapr\Kontrola wersji\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Studia\Cszapr\Kontrola wersji\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
